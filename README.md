@@ -213,8 +213,3 @@ This project is licensed under the MIT License — see the [LICENSE](LICENSE) fi
 
 *Apple Foundation Program Advanced · Mini Challenge 3: Zeus · Built with ❤️ and SwiftUI in Paris*
 
-<div align="center">
-<br><br><a href="https://www.balystick.fr/Github/Tag%20It.mp4">
-    <img src="https://www.balystick.fr/Github/Tag%20It%20logo.png" alt="Aperçu de l'application" style="width:340px">
-</a>
-</div>
