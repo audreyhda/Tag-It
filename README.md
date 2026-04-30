@@ -160,6 +160,8 @@ open iOS/TagIt.xcodeproj
 
 ### Running the Vapor Server
 
+https://github.com/audreyhda/Tag-It-Server
+
 ```bash
 cd Server
 
