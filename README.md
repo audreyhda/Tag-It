@@ -11,7 +11,7 @@
 <em>▶ Click the logo to watch the demo video</em>
 </div>
 
----
+--- 
 
 ## 📌 Problem Statement
 
